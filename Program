@@ -1,0 +1,55 @@
+a) ls > filename
+
+cat filename
+
+b) chmod -wx filename
+
+c)ls
+
+d)mv oldname.ext newfilename.ext
+
+e)mkdir April2022
+
+
+
+a)ls > filename
+
+cat filename
+
+b)touch myfile.txt
+
+c)du
+
+d)ls
+
+e)du -m
+
+
+
+a) mkdir April2022
+
+b) cd April2022
+
+c) wc filename
+
+d)date
+
+e)mv oldname.ext newname.ext
+
+
+
+a) mv oldnamw.ext newname.ext
+
+b)date
+
+c)du -m
+
+d) ls > list.txt
+
+cat list.txt
+
+e)wc -c filename
+
+wc -w filename
+
+wc -l filename
